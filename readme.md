@@ -1,8 +1,8 @@
-# Autenticación básica HTTP con NodeJS
+# Autenticación básica HTTP con NodeJS usando Passport
 
 Código de ejemplo del artículo:
 
-http://www.rubenbp.com/blog/autenticaci-n-b-sica-http-con-nodejs/
+http://www.rubenbp.com/blog/autenticaci-n-b-sica-http-con-nodejs-usando-passport
 
 ## Instalación
 
